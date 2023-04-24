@@ -8,7 +8,7 @@ In this project, the core learnings center on `sorting algorithms` and the `Big 
 * There are many <b>sorting algorithms</b>, each with its own advantages and disadvantages, but they all aim to accomplish the same goal. 
 * <b>Sorting algorithms</b> are commonly used in computer science and programming to manage large datasets, search and compare values, and analyze data. 
 
-## Project Requirements :pushpin:
+## Project Requirements :bulb:
 * All files will be compiled on <b>Ubuntu 20.04 LTS</b> using <b>gcc</b>, using the options <b>-Wall -Werror -Wextra -pedantic -std=gnu89</b>.
 * This is a `C` project, hence all codes should use the `Betty` style.
 * All files should end with a new line.
@@ -80,9 +80,9 @@ typedef struct deck_node_s
 | ------------------ | ------------------------------------- |
 | `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
 
-------
+
 > All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes <b>(which are 29 in total)</b> to get an insight. 
-------
+
 ## Author :black_nib:
-*  __Oyindamola Ibis__ [HBIbidunni](./HBIbidunni)
+*  __Oyindamola Ibis__ <[HBIbidunni](https://github.com/HBIbidunni)>
 -------
