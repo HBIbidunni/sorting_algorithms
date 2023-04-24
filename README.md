@@ -12,7 +12,7 @@ In this project, the core learnings center on `sorting algorithms` and the `Big 
 * All files will be compiled on <b>Ubuntu 20.04 LTS</b> using <b>gcc</b>, using the options <b>-Wall -Werror -Wextra -pedantic -std=gnu89</b>.
 * This is a `C` project, hence all codes should use the `Betty` style.
 * All files should end with a new line.
-* The project should contain :two: helper files: <b>print_array.c</b> - a `C` function that prints an array of integers and <b>print_list.c</b> - a `C` function that prints a `listint_t` doubly-linked list.
+* The project should contain :two: helper files: <b>print_array.c</b>, a `C` function that prints an array of integers and <b>print_list.c</b>, a `C` function that prints a `listint_t` doubly-linked list.
 * The prototypes of all functions should be included in your header file called `sort.h` and should be include guarded.
 
 ## Header file :file_folder:
@@ -80,4 +80,4 @@ typedef struct deck_node_s
 | ------------------ | ------------------------------------- |
 | `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
 
-> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes to give an insight.
+> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes to get an insight.
