@@ -1,4 +1,4 @@
-# ALX Project Sorting algorithms & Big O
+# The ALX Project Sorting algorithms & Big O
 ---------
 In this project, the core learnings center on `sorting algorithms` and the `Big O`:
 
@@ -26,10 +26,10 @@ typedef struct listint_s
 	struct listint_s *next;
 } listint_t;
 ```
-## Tests :check_mark:
+## Tests :white_check_mark:
 * [tests](./tests): This contains all the test files of the project.
 
-## Function Prototypes :check_mark:i
+## Function Prototypes :white_check_mark:
 
 | File                       | Prototype                                         |
 | -------------------------- | ------------------------------------------------- |
@@ -80,4 +80,4 @@ typedef struct deck_node_s
 | ------------------ | ------------------------------------- |
 | `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
 
-> All comments, feedbacks and suggestions on my codes are very welcome. Kindly take a look.
+> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes to give an insight.
