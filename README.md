@@ -81,8 +81,9 @@ typedef struct deck_node_s
 | `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
 
 
-> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes <b>(which are 29 in total)</b> to get an insight. 
+> All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes to get an insight. Scroll up :arrow_up:, please.
 
-## Author :black_nib:
+
+##  Author :black_nib:
 *  __Oyindamola Ibis__ <[HBIbidunni](https://github.com/HBIbidunni)>
 -------
